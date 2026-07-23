@@ -1,10 +1,8 @@
 09-07-2026
 OWNERDOMAIN=creativezsolutions.com
-
 #UnityAds
 #AdmobAds
 google.com, pub-6681561355815050, DIRECT, f08c47fec0942fa0
-
 #MetaMonetization
 facebook.com, 792543467275695, DIRECT, c3e20eee3f780d683
 #VungleMonetize
